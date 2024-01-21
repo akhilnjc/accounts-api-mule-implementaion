@@ -1,0 +1,12 @@
+%dw 2.0
+
+type auto_58ffd275_feb4_4d66_9869_364f320c70c1_Output_Payload = {
+  address: String, 
+  name: String, 
+  accounttype: String, 
+  ID?: Number, 
+  creationDate: String, 
+  airmiles: Number, 
+  _?: Any
+}
+

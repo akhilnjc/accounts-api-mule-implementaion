@@ -1,0 +1,18 @@
+[
+  {
+    "ID": 5039,
+    "name": "Max Mule",
+    "address": "United States",
+    "type":"business",
+    "airmiles":20,
+    "creationdate":2018-02-20
+  },
+  {
+    "ID": 5043,
+    "name": "Max Mule",
+    "address": "San Francisco",
+    "type":"business",
+    "airmiles":20,
+    "creationdate":2018-02-20
+  }
+]
